@@ -1,0 +1,5 @@
+# Replace essentia.example with your real domain before launch
+User-agent: *
+Allow: /
+
+Sitemap: https://essentia.example/sitemap.xml
